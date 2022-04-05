@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our fbalmeida's slide!"
 ---
-Get on git! Go fetch some wit, son.
+Hope you've learned something new here today.
 Use the left arrow to go back!
